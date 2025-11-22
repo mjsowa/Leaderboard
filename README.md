@@ -228,7 +228,7 @@
         <div class="header-top">
             <h1 id="main-title">
                 <!-- Text wrapped in span to control mobile visibility -->
-                <span class="trophy-icon">🏆</class="title-text">Competition Results</span>⚾
+                <span class="trophy-icon">🏆</span><span </class="title-text">Competition Results</span>⚾
             </h1>
         </div>
         <div id="error-message"></div>
